@@ -52,7 +52,24 @@ Now, if you check your copy of the repo in github, you should see the `readme.md
 **NOTE: if you only see the `readme.md` file without any other files or folder, then there is something went wrong in one of the previous steps**
 5.2 And finally, the remaining part to submit your changes back again to `Tuwaig's` repo of the homework, to do that:
 5.2.1 From the main page of your copy of the repo, click on the `Pull Requests` tab.
+5.2.2 click on `New Pull Request`
+![image](https://user-images.githubusercontent.com/29100623/137937434-284e8f07-df20-465d-9eb5-31bdb9b8ac3a.png)
 
-5.2.2 click on `Create Pull Request`
-5.2.3 fill the input with your name and click on ``
+5.2.3 click on `Create Pull Request`
+![image](https://user-images.githubusercontent.com/29100623/137937574-5cc833ca-2b2f-469c-8989-1600b27cc94b.png)
+
+
+5.2.4 fill the input with your name and click on `Create Pull Request`
+![image](https://user-images.githubusercontent.com/29100623/137937852-8840ff8a-f2bd-48ce-90e4-4e4e68eb4c09.png)
+
+And that's it, now your pull request should appear if you open the `Pull Requests` tab from `Tuwaiq's` repo.
+
+
+**NOTE: If you need to make some changes on your code and upload it again, then you can do the following**
+1- make the changes
+2- `git add .`
+3- `git commit -m "<what you did>"`
+4- `git push`
+And now, there is no need to make the pull request again as the changes will reach to the pull request that you already made ✌🏻😃
+
 
