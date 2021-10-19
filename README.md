@@ -1,4 +1,4 @@
-# APPENDIX_A_How_To_Upload_Your_Homework
+# How To Upload Your Homework From `Fork` to `Pull Request`
 If you still forget the steps of uploading your homework and you still need a document to refer to everytime, then congrats, you're a real programmer 🤟🏻. This repo is intended to help you to remember the steps everytime.
 
 ## Step1: Fork
@@ -40,3 +40,19 @@ git add .
 4.4 Now the files are added to git and ready to make be saved (commited), so you can use the following command to commit the changes:
 ```
 git commit -m "<replace this whith any message describing what you did>"
+```
+Now, your changes are saved in git, and you need to upload them to your copy of the repo in github.
+
+## Step 5: Submitting Your Work
+5.1 first, you should upload the changes you saved locally in git to the cloud; to do that, you can simply write in the Terminal:
+```
+git push
+```
+Now, if you check your copy of the repo in github, you should see the `readme.md` along with another folder which contains the code you wrote.
+**NOTE: if you only see the `readme.md` file without any other files or folder, then there is something went wrong in one of the previous steps**
+5.2 And finally, the remaining part to submit your changes back again to `Tuwaig's` repo of the homework, to do that:
+5.2.1 From the main page of your copy of the repo, click on the `Pull Requests` tab.
+
+5.2.2 click on `Create Pull Request`
+5.2.3 fill the input with your name and click on ``
+
